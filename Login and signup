@@ -1,2 +1,9 @@
 # NEW-PROJECT-
-LOGIN AND SIGN UP PAGE ITS 
+LOGIN AND SIGN UP PAGE ITS
+A login form generally consists of a username or email field, a password field and a bottom for logging in. 
+Some of the login page may also include captcha which helps to prevent automated login attempts.
+
+The login process generally deals with 2 major items: username and password.
+When a user enters username and password in respective field and clicks on login button, the credentials are checked in database and promoted accordingly.
+In case the credential combination is correct, the user will be able to log in else not.
+We can also implement 2 step authentication in login where after successfully entering username and password, user will go through another step of verification.
